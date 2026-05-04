@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is your name?",
+    "answer": "I am an AI chatbot."
+  },
+  {
+    "question": "What courses are available?",
+    "answer": "We offer AI, Data Science, and Computer Science courses."
+  },
+  {
+    "question": "Where is the college located?",
+    "answer": "The college is in Maharashtra."
+  }
+]
